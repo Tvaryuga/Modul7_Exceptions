@@ -3,6 +3,7 @@
 #define INTARRAY_H
 #include <exception>
 #include <iostream>
+#include <climits>
 
 using std::exception;
 
